@@ -22,6 +22,6 @@ This course introduces fundamental and practical tools, techniques, and algorith
 
 ### Skills
 
-- **Programming:** R, Python
-- **Software:** R Studio, Jupyter Notebook
+- **Programming:** R
+- **Software:** R Studio
 - **KDDM Skills:** Probability, Exploratory Data Analysis (EDA), K-Nearest Neighbors (KNN), Naive Bayes (NB), Decision Tree, Randon Forest, Artificial Neural Network (ANN), Hierarchical Clustering
